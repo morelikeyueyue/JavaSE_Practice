@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/arrays-code/arrays-code.iml" filepath="$PROJECT_DIR$/arrays-code/arrays-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doudizhu/doudizhu.iml" filepath="$PROJECT_DIR$/doudizhu/doudizhu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcodetest/leetcodetest.iml" filepath="$PROJECT_DIR$/leetcodetest/leetcodetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapi.iml" filepath="$PROJECT_DIR$/myapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mymap/mymap.iml" filepath="$PROJECT_DIR$/mymap/mymap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myvessel/myvessel.iml" filepath="$PROJECT_DIR$/myvessel/myvessel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search-code/search-code.iml" filepath="$PROJECT_DIR$/search-code/search-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/timeapi/timeapi.iml" filepath="$PROJECT_DIR$/timeapi/timeapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/useapi/useapi.iml" filepath="$PROJECT_DIR$/useapi/useapi.iml" />
+    </modules>
+  </component>
+</project>

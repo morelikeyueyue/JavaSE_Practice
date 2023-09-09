@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../../杂项/LeetCodeProgram/leetcode/editor/cn/[1605]给定行和列的和求可行矩阵.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../杂项/LeetCodeProgram/leetcode/editor/cn/doc/content/[1605]给定行和列的和求可行矩阵.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1605" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../杂项/LeetCodeProgram/leetcode/editor/cn/[1605]给定行和列的和求可行矩阵.java" />
+              <option name="titleSlug" value="find-valid-matrix-given-row-and-column-sums" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
